@@ -1,16 +1,53 @@
-# flutter_application
+# Hanium_Kiosk
+[AI를 활용한 대화형 음성인식 키오스크]
+---
 
-A new Flutter project.
+▶️ 시연 영상: <https://youtu.be/mRb5O3RLaEI?si=iNUYVkIHQwR-0ELD>
 
-## Getting Started
+💻 프로젝트 개발 기간 : 2023.04 ~ 현재 3차 심사 중( 11월 10일 수상 결과 발표 예정 )
 
-This project is a starting point for a Flutter application.
+<img width="705" alt="스크린샷 2023-11-08 오후 12 34 14" src="https://github.com/Sumin0411/Hanium_Kiosk/assets/91542789/4e561494-397e-4a44-b98a-250997ae1ff9">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="705" alt="스크린샷 2023-11-08 오후 12 34 07" src="https://github.com/Sumin0411/Hanium_Kiosk/assets/91542789/43b4592d-4a08-4bde-b954-472a88c7323c">
+
+
+
+<img width="705" alt="스크린샷 2023-11-08 오후 12 32 08" src="https://github.com/Sumin0411/Hanium_Kiosk/assets/91542789/f9483099-f639-4d3c-a581-6cf7de7b15a7">
+
+
+
+<img width="705" alt="스크린샷 2023-11-08 오후 12 32 21" src="https://github.com/Sumin0411/Hanium_Kiosk/assets/91542789/bcd7ac39-52c9-468c-ba0a-7713d0b21032">
+
+
+
+<img width="705" alt="스크린샷 2023-11-08 오후 12 37 16" src="https://github.com/Sumin0411/Hanium_Kiosk/assets/91542789/33c00115-e710-47e8-beab-e9dcf0bce4b3">
+
+
+---
+
+💡 프로젝트 제안 배경
+
+코로나19 이후 식당에서 인력 감축이 필요한 상황에서 키오스크 이용률이 증가하고 있다.
+이에 대응하기 위해 기존의 터치형 키오스크와는 차별된 음성/얼굴인식 기술을 활용한 키오스크를 개발하여 고객과 상호작용할 수 있도록 하고, 
+지향성 마이크를 사용하여 주변 소음을 제거하여 주문하는 사람의 음성을 정확하게 인식하는 것을 목표로 한다.
+또한 모든 연령층을 고려한 AI 기술을 활용한 맞춤형 음성인식 서비스를 제공하여 고객 만족도를 높이고, 더 쉽고 빠르게 주문할 수 있도록 한다.
+
+✔️ 주요 기능
+
+얼굴인식과 음성인식을 이용한 인공지능 기술로 더욱 원활한 주문을 가능하게 하며, 챗봇 기술을 활용하여 자연스러운 대화를 통해 고객에게 맞춤형 메뉴를 추천하는 등 실제 직원과 대화하는 듯한 효과를 줄 수 있다. 
+POS 및 관제 대시보드 기술을 구현하고, 챗봇 대화 시나리오 구현 및 관리, 키오스크와 포스기 유지보수, 고객의 주문 데이터 저장관리 등 전반적인 웹과 백엔드 기술을 구현한다.
+
+💻 적용 기술
+
+- 인공지능 기술 : 음성 및 영상 인식 기술 적용, 가상 캐릭터 제작 기술 활용하여 음성 챗봇 대화 내용에 어울리는 입 모양과 눈 모양 컨트롤
+- 백엔드 및 웹 개발 기술 : 서버 백엔드 구축 및 데이터베이스 저장과 웹 기반의 대시보드 적용
+- 키오스크 하드웨어 : 키오스크 외형 제작, 지향성 마이크 부착하여 고객의 주문을 음성으로 접수하도록 제작
+- 챗봇 기술 : 주문을 파악하기 위한 시나리오 작성 기술, 고객에게 추천하고자 하는 대화 기능 기술
+- pos 및 관제 보드 : AI 키오스크로부터 접수된 주문을 주방에 알려주는 장치, 주문 메뉴와 가격 등을 설정할 수 있는 기능 제공
+
+🔍 기대효과
+- 직원을 완전히 대체 할 수 있으므로 인건비 절감
+- 주문고객과 대화를 통하여 디지털 소외계층도 키오스크 사용 가능
+- 주문이 필요한 매장 또는 고객이 직접 처리할 수 있는 업무가 존재하는 기관에서 활용
