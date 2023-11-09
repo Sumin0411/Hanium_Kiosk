@@ -1,28 +1,30 @@
 # Hanium_Kiosk
-[AI를 활용한 대화형 음성인식 키오스크]
+[AI를 활용한 대화형 음성인식 키오스크] 🥉
 ---
 
 ▶️ 시연 영상: <https://youtu.be/mRb5O3RLaEI?si=iNUYVkIHQwR-0ELD>
 
-💻 프로젝트 개발 기간 : 2023.04 ~ 현재 3차 심사 중( 11월 10일 수상 결과 발표 예정 )
-
-<img width="705" alt="스크린샷 2023-11-08 오후 12 34 14" src="https://github.com/Sumin0411/Hanium_Kiosk/assets/91542789/4e561494-397e-4a44-b98a-250997ae1ff9">
+💻 프로젝트 개발 기간 : 2023.04 ~ 2023.11.05 (동상🥉 (한국정보산업연합회장상) 수상)
 
 
-
-<img width="705" alt="스크린샷 2023-11-08 오후 12 34 07" src="https://github.com/Sumin0411/Hanium_Kiosk/assets/91542789/43b4592d-4a08-4bde-b954-472a88c7323c">
+<img width="705" alt="스크린샷 2023-11-01 오전 11 47 16" src="https://github.com/Sumin0411/Hanium_Kiosk/assets/91542789/a2d9f5c2-ac77-47d5-9329-b43dae8fb58e">
 
 
 
-<img width="705" alt="스크린샷 2023-11-08 오후 12 32 08" src="https://github.com/Sumin0411/Hanium_Kiosk/assets/91542789/f9483099-f639-4d3c-a581-6cf7de7b15a7">
+<img width="705" alt="스크린샷 2023-11-01 오전 11 47 31" src="https://github.com/Sumin0411/Hanium_Kiosk/assets/91542789/d31e03a8-73cd-49c8-9be0-c8d1cfba5fc6">
 
 
 
-<img width="705" alt="스크린샷 2023-11-08 오후 12 32 21" src="https://github.com/Sumin0411/Hanium_Kiosk/assets/91542789/bcd7ac39-52c9-468c-ba0a-7713d0b21032">
+<img width="705" alt="스크린샷 2023-11-01 오전 11 50 35" src="https://github.com/Sumin0411/Hanium_Kiosk/assets/91542789/035f118d-43f1-498e-abc0-e29c0d2044a8">
 
 
 
-<img width="705" alt="스크린샷 2023-11-08 오후 12 37 16" src="https://github.com/Sumin0411/Hanium_Kiosk/assets/91542789/33c00115-e710-47e8-beab-e9dcf0bce4b3">
+<img width="705" alt="스크린샷 2023-11-01 오전 11 50 50" src="https://github.com/Sumin0411/Hanium_Kiosk/assets/91542789/16e18a39-ea47-4387-bfd1-c6def1d309b0">
+
+
+
+<img width="705" alt="스크린샷 2023-11-08 오후 12 37 16" src="https://github.com/Sumin0411/Hanium_Kiosk/assets/91542789/ea295d70-9781-44f4-8d9a-23958d7fc7fc">
+
 
 
 ---
