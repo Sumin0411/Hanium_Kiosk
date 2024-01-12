@@ -6,6 +6,8 @@
 
 💻 프로젝트 개발 기간 : 2023.04 ~ 2023.11.05 (동상🥉 (한국정보산업연합회장상) 수상)
 
+✔️ 논문 등재 :<https://kiss.kstudy.com/Detail/Ar?key=4059521>
+
 
 <img width="705" alt="스크린샷 2023-11-01 오전 11 47 16" src="https://github.com/Sumin0411/Hanium_Kiosk/assets/91542789/a2d9f5c2-ac77-47d5-9329-b43dae8fb58e">
 
